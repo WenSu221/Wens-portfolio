@@ -1,6 +1,6 @@
 
 
-<a href="https://github.com/WenSu221">Wen Su<img src="../static/assets/img/github.png" alt="github" style="width: 36px;"/></a>
+<a href="https://github.com/WenSu221"><img src="../static/assets/img/github.png" alt="github" style="width: 36px;"/></a>
 <a href="https://scholar.google.com/citations?user=Jm3CY8MAAAAJ&hl=en"><img src="../static/assets/img/gs.png" alt="Google scholar" style="width: 36px;"/></a>
 
 Wen Su is a trained demographer specializing in mathematical and statistical methods. Wen’s primary research focus is on developing and refining mathematical and statistical methodologies to measure and analyse mortality patterns among subpopulations below the national level. Additionally, he is also interested in understanding gender differences in mortality.
