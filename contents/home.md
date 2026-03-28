@@ -1,6 +1,6 @@
 
 
-[![wensu221](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/WenSu221)
+[![wensu221](../static/assets/img/github.png)](https://github.com/WenSu221)
 [![Google scholar](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://scholar.google.com/citations?user=Jm3CY8MAAAAJ&hl=en)
 
 Wen Su is a trained demographer specializing in mathematical and statistical methods. Wen’s primary research focus is on developing and refining mathematical and statistical methodologies to measure and analyse mortality patterns among subpopulations below the national level. Additionally, he is also interested in understanding gender differences in mortality.
