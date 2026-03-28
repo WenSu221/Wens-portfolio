@@ -2,16 +2,17 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Wen Su is a trained demographer specializing in mathematical and statistical methods. Wen’s primary research focus is on developing and refining mathematical and statistical methodologies to measure and analyse mortality patterns among subpopulations below the national level. Additionally, he is also interested in understanding gender differences in mortality.
+Wen completed his PhD in Demography at the Australian National University (ANU). During his doctoral studies, he served as a Research Assistant at ANU’s School of Demography and as a Casual Sessional Academic, teaching undergraduate and postgraduate courses in demographic methods. He also worked as a Research Officer at the Centre for Indigenous Policy Research, providing statistical support to projects aimed at improving living conditions for Indigenous populations in Australia. Wen’s research reflects his passion for applying mathematical and statistical methods to analyse and understand the mortality patterns of subpopulations, with a focus on identifying disparities and insights into improving their health outcomes globally.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: wen.su[at]demography.ox.ac.uk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.A., Demography, Australian National University, 2019-2021.\
+Ph.D., Demography, Australian National University, 2021-2024.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Mathematical Demography; Human Mortality, Mortality Sex Differences.
 
