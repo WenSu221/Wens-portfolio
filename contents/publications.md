@@ -24,6 +24,6 @@ gap in life expectancy: A research note based on evidence from Australia. <stron
 
 - Vladimir Canudas-Romo, <strong>Wen Su</strong>, Mike Hollingshaus (2023). Variable-r in sex ratios: Formulas in honor of Jim Vaupel. <strong>Demographic Research</strong> [[Paper]](https://www.demographic-research.org/articles/volume/49/26)
 
-- Annette Erlangsen, Murad Khan, <strong>Wen Su</strong>*, et al (2023). Situation analysis of suicide and self-harm in the WHO Eastern Mediterranean Region. <strong>Archives of suicide research</strong> [[Paper]](https://doi/abs/10.1080/13811118.2023.2262532)
+- Annette Erlangsen, Murad Khan, <strong>Wen Su</strong>, et al (2023). Situation analysis of suicide and self-harm in the WHO Eastern Mediterranean Region. <strong>Archives of suicide research</strong> [[Paper]](https://doi/abs/10.1080/13811118.2023.2262532)
 
 
