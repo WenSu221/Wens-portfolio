@@ -8,7 +8,7 @@ Wen completed his PhD in Demography at the Australian National University (ANU).
 
 #### Contact
 
-Email: wen.su[at]demography.ox.ac.uk
+Email: [wen.su@demography.ox.ac.uk](wen.su@demography.ox.ac.uk)
 
 #### Education
 M.A., Demography, Australian National University, 2019-2021.\
