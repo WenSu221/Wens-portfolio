@@ -5,7 +5,7 @@
 
 As a trained mathematical demographer and quantitative social scientist, my primary research interests revolve around developing and refining mathematical and statistical methodologies to measure and analyse mortality patterns within subpopulations below the national level. I am particularly drawn to understanding gender differences in mortality. My passion lies in applying mathematical and statistical methods to analyse and comprehend mortality patterns, with a focus on identifying disparities and gaining insights into improving population health outcomes globally.
 
-I completed my PhD in Demography at the Australian National University (ANU), where I also obtained my master’s degree in Demography with commendation. My doctoral dissertation was awarded the prestigious Charles Price Prize in Demography (link)[https://www.anu.edu.au/students/program-administration/prizes/charles-price-prize-in-demography-phd-prize]. Before my interest in maths and equations, I studied English Literature and Accounting at undergraduate level.  
+I completed my PhD in Demography at the Australian National University (ANU), where I also obtained my master’s degree in Demography with commendation. My doctoral dissertation was awarded the prestigious Charles Price Prize in Demography [link](https://www.anu.edu.au/students/program-administration/prizes/charles-price-prize-in-demography-phd-prize). Before my interest in maths and equations, I studied English Literature and Accounting at undergraduate level.  
 
 I am currently a postdoctoral researcher in the Nuffield Department of Population Health at the University of Oxford. [My profile](https://www.demography.ox.ac.uk/people/wen-su) provides more details about my background.
 
