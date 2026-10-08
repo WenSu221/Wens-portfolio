@@ -1,9 +1,9 @@
-#### Submitted
-
-- Mengxue Chen, <strong>Wen Su</strong>, Vladimir Canudas-Romo. Mortality and composition: Regional contribution to the change of na-
-tional life expectancy in China. forthcoming in Demographic Research
+%#### Submitted
 
 #### Published
+
+- Mengxue Chen, <strong>Wen Su</strong>, Vladimir Canudas-Romo (2026). Mortality and composition: Regional contribution to the change of na-
+tional life expectancy in China. <strong>Demographic Research</strong> [[Paper]](https://www.demographic-research.org/articles/volume/54/39/)
 
 - <strong>Wen Su</strong>, Jennifer Welsh, Vladimir Canudas-Romo (2026). Causes of death contributions to the sex gaps in life expectancy: evidence by education levels from Australia. <strong>BMC Public Health</strong> [[Paper]](https://link.springer.com/article/10.1186/s12889-026-26888-2)
 
