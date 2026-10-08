@@ -1,5 +1,3 @@
-%#### Submitted
-
 #### Published
 
 - Mengxue Chen, <strong>Wen Su</strong>, Vladimir Canudas-Romo (2026). Mortality and composition: Regional contribution to the change of na-
